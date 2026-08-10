@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-sloty-bitkoin.github.io
+Sitemap: https://kazino-sloty-bitkoin.github.io/sitemap.xml
